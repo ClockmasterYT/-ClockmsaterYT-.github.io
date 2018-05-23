@@ -1,4 +1,8 @@
-# -ClockmsaterYT-.github.io
+# ClockmsaterYT.github.io
 What The Hell.me
 
-What The Hell.me. It's a website where I post funny stuff while I learn HTML and CSS. Join me if you want to be part of some sort of cult thing or whatever, I guess. There's funny stuff here. Check back a couple of times per week.
+WhatTheHell.me is a hilarious satire website that I'll be updating like a blog while I also do random experiments and tests while learning HTML and CSS.
+
+Follow me if you want to be involved in some sort of weird niche, cult thing or whatever. You'll be in good company.
+
+WhatTheHell.me is currently closed to contributions of any sort. This may change at some point, but not any time soon.
