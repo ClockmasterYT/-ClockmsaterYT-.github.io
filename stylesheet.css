@@ -48,6 +48,8 @@ aside-left {
     margin-left: 1%;
 	margin-right: 1%;
     padding: 0;
+	font-size: 12pt;
+	font-family: Istok-Regular;
 }
 
 aside-left ul {
@@ -59,7 +61,14 @@ aside-left ul a {
 	text-decoration: none;
 }
 
+@font-face {
+	font-family: Istok-Regular;
+	src: url('Istok-Regular.ttf')
+}
+
 article {
+	font-family: Istok-Regular;
+	font-size: 14pt;
 	margin-left: 17%;
 	margin-right: 17%;
     border-left: 1px solid gray;
@@ -76,6 +85,8 @@ aside-right {
 	margin-right: 1%;
 	margin: 0;
 	padding: 0;
+	font-family: Istok-Regular;
+	font-size: 12pt;
 }
 
 aside-right ul {
@@ -85,4 +96,17 @@ aside-right ul {
 
 aside-right ul a {
 	text-decoration: none;
+}
+
+timestamp {
+    font-family: Arial;
+    font-size: 12pt;
+    font-weight: 400;
+    font-style: normal;
+    color: #b3b3b1;
+}
+
+h2 {
+	font-size: 32pt;
+	font-family: Times New Roman;
 }
