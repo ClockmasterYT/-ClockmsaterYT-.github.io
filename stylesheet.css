@@ -108,20 +108,20 @@ h2 {
 
 @font-face {
 	font-family: Istok-Regular;
-	src: url('fonts\Istok-Regular.ttf')
+	src: url('fonts/Istok-Regular.ttf')
 }
 
 @font-face {
 	font-family: Times New Roman;
-	src: url('fonts\times.ttf')
+	src: url('fonts/times.ttf')
 }
 
 @font-face {
 	font-family: Franklin Gothic;
-	src: url('fonts\framd.ttf')
+	src: url('fonts/framd.ttf')
 }
 
 @font-face {
 	font-family: Arial;
-	src: url('fonts\arial.ttf')
+	src: url('fonts/arial.ttf')
 }
