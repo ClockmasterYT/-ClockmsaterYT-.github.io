@@ -66,6 +66,21 @@ aside-left ul a {
 	src: url('Istok-Regular.ttf')
 }
 
+@font-face {
+	font-family: Times New Roman;
+	src: url('times.ttf')
+}
+
+@font-face {
+	font-family: Franklin Gothic;
+	src: url('framd.ttf')
+}
+
+@font-face {
+	font-family: Arial;
+	src: url('arial.ttf')
+}
+
 article {
 	font-family: Istok-Regular;
 	font-size: 14pt;
